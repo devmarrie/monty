@@ -1,5 +1,5 @@
 # monty interpreter
-![alt text](https://github.com/devmarrie/monty/images/f-lifo.jpg?raw=true)
+![alt text](https://github.com/devmarrie/monty/blob/master/images/f-lifo.jpg?raw=true)
 
 
 ## The Monty language
